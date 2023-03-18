@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uutiset</string>
+    <string name="business">Liiketoiminta</string>
+    <string name="entertainment">Viihde</string>
+    <string name="general">Yleisö</string>
+    <string name="health">Terveys</string>
+    <string name="science">Tiede</string>
+    <string name="sports">Urheilu</string>
+    <string name="technology">Teknologia</string>
+</resources>
